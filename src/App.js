@@ -19,7 +19,7 @@ function App() {
       <br />
       <br />
 
-      <fotter>
+      <section>
         <button onClick={() => dispatch(signIn())}>
           {isLogged ? "Sign out" : "Sign In"}
         </button>
@@ -33,7 +33,7 @@ function App() {
             Sign in <code>Bitch!</code>
           </h3>
         )}
-      </fotter>
+      </section>
     </div>
   );
 }
