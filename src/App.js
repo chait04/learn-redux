@@ -30,7 +30,7 @@ function App() {
           </p>
         ) : (
           <h3>
-            Sign in <code>Bitch!</code>
+            Sign in <code>Bitch!!</code>
           </h3>
         )}
       </section>
